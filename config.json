@@ -1,8 +1,5 @@
 {
-  "api_key": "",
-  "api_secret": "",
-  "token": "",
-
   "pipeID": "",
+  "phaseID": "",
   "pipefyToken": ""
 }
